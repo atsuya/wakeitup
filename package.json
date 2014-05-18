@@ -1,19 +1,19 @@
 {
-  "name": "heartbeater",
+  "name": "wakeitup",
   "version": "0.0.0",
-  "description": "beats a heart.",
+  "description": "wake up heroku app.",
   "main": "lib/heartbeater",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/atsuya/heartbeater.git"
+    "url": "git://github.com/atsuya/wakeitup.git"
   },
   "author": "Atsuya Takagi <atsuya.takagi@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atsuya/heartbeater/issues"
+    "url": "https://github.com/atsuya/wakeitup/issues"
   },
-  "homepage": "https://github.com/atsuya/heartbeater"
+  "homepage": "https://github.com/atsuya/wakeitup"
 }
