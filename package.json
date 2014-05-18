@@ -1,0 +1,19 @@
+{
+  "name": "heartbeater",
+  "version": "0.0.0",
+  "description": "beats a heart.",
+  "main": "lib/heartbeater",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/atsuya/heartbeater.git"
+  },
+  "author": "Atsuya Takagi <atsuya.takagi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atsuya/heartbeater/issues"
+  },
+  "homepage": "https://github.com/atsuya/heartbeater"
+}
